@@ -123,15 +123,17 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - Debrief from lab
   - Finish 10.4
   - [Non-linear least square, Gauss-Newton, Levenberg-Marquardt](Notes/Ch10_NonlinearLeastSquares_GaussNewton.pdf)
-  - Demo: [Gradient descent vs Newton on nonconvex problem in 2D](Demos/Ch10_nonconvex_example_2D.ipynb)
 #### Week 8, Chapter 3 (interpolation)
 - Mon, Oct 6 
-  - [Intro to Interpolation](Notes/Ch3_IntroInterpolation.pdf) and [Lagrange interpolation](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf), from ch 3.1
+  - [Intro to Interpolation](Notes/Ch3_IntroInterpolation.pdf) from ch 3.1
+  - Demo: [Gradient descent vs Newton on nonconvex problem in 2D](Demos/Ch10_nonconvex_example_2D.ipynb)
 - Wed, Oct 8 
   - In-class review
+  - [Review: pros and cons of different rootfinding/fixed-pt/optimization methods](Notes/Ch10_review_ProsCons.pdf)
   - Evening **midterm exam**, 6 to 7:30 PM, ECCS 1B12
 - Thu, Oct 9 (no lab, reading day)
 - Fri, Oct 10 
+  - [Lagrange  (and Barycentric) interpolation](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf) from ch 3.1
   - "Barycentric Interpolation formula" [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf) from Driscoll and Braun;
     - cf. [Berrut and Trefethen's 2004 SIAM Review article](https://people.maths.ox.ac.uk/trefethen/barycentric.pdf); 
   - "Lagrange Interpolation Error Bounds" (10 min video; [same notes as before](Notes/Ch3_LagrangeAndBarycentricInterpolation.pdf)) ch 3.2; 
@@ -144,6 +146,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
 #### Week 9, more Chapter 3 (interpolation)
 - Mon, Oct 13 
   - Finish up anything from Friday
+    - See also the [interpolation: supplemental notes on Newton polynomials](Notes/Ch3_IntroInterpolationSupplement.pdf)
   - [Hermite Interpolation](Notes/Ch3_Hermite.pdf) from ch 3.4
 - Wed, Oct 15 
   - [Splines](Notes/Ch3_Splines.pdf) from ch 3.5 (we'll skip ch 3.6)
