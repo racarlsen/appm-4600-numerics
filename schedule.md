@@ -107,8 +107,8 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - [Lab 6: multivariate systems of equations and GNSS/GPS](Lab06_GPS.ipynb)
 - Fri, Sep 26 
   - Debrief from lab
-
   - [Example of multivariate contraction mapping theorem](Notes/Ch10_ContractionMappingThm_example.pdf)
+
 #### Week 7, Chapter 10 (nonlinear systems of equations)
 - Mon, Sep 29 
   - [Linear algebra: how to think about matrix multiplication](Notes/Ch10_LinearAlgebraSupplement-MatrixMultiplication.pdf)
@@ -253,7 +253,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
     - Short demo on [Ch6_Conditioning_solvingEquations.ipynb](Demos/Ch6_Conditioning_solvingEquations.ipynb)
     - Did part of [Ch6_LU_vs_Cholesky.ipynb](Demos/Ch6_LU_vs_Cholesky.ipynb) to demonstrate why we want to pivot. We didn't cover the rest of this demo
     - Did *not* cover ~~[Ch6_conditioning_LeastSquares.ipynb](Demos/Ch6_conditioning_LeastSquares.ipynb) (long!)~~, nor ~~[Ch6_RepeatedSolves.ipynb](Demos/Ch6_RepeatedSolves.ipynb) (short)~~, nor ~~[Ch6_MatrixMultiplication.ipynb](Demos/Ch6_MatrixMultiplication.ipynb), talk about BLAS and LAPACK~~
-- Thu, Nov 20, Lab 13
+- Thu, Nov 20, Lab 12
   - [Lab12: Fast and Accurate Least Squares](Labs/Lab12_LeastSquares.ipynb) via several methods
 - Fri, Nov 21 
   - Debrief from lab
@@ -269,7 +269,7 @@ References are to Burden and Faires, 10th edition, unless otherwise noted
   - [Ch9_Powermethod_part2.pdf](Notes/Ch9_Powermethod_part2.pdf) for how to accelerate convergence and find more than one eigenvalue (i.e., shift-and-invert, deflation, orthogonal iteration and the QR Iteration)
   - Demo: [Ch 9 power method demo](Demos/Ch9_PowerMethod.ipynb)
 - Thu, Dec 4, Lab 14
-  - TBD
+  - [Lab 13: eigenvalues](Labs/Lab13_Eigenvalues.ipynb)
 - Fri, Dec 5 
   - Debrief from lab
   - Ch 9.4, Householder reflections, reduction to tridiagonal or upper Hessenberg
